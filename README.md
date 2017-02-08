@@ -1,17 +1,22 @@
 
 # Kai's Portfolio
+
 ---
 ## Research Experience
 ### Algorithmic Game thoery:
+
 1. Routing Games (Routing Games with Priorities http://aaac2016.ie.nthu.edu.tw/index.php/program/)
 2. Network Formation Games
+
 ---
 ## Working Experience
 ### Machine Learning
+
 1. Personalized Recommendation System (utilization of the following paper: https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
 2. Mixerbox Radio Recommendation System (language detection of youtube videos)
 
 ### Backend and Frontend Development
+
 1. Google Play Store Crawler
 2. APIs for getting apps data of given appid
 3. Elasticsearch for Chinese Article Search engine
