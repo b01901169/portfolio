@@ -12,7 +12,7 @@
    - Mixerbox Radio Recommendation System (language detection of youtube videos)
 
 - Backend and Frontend Development
-   - Google Play Store Craler
+   - Google Play Store Crawler
    - APIs for getting apps data of given appid
    - Elasticsearch for Chinese Article Search engine
    - Google Play Store History Visualization http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/
