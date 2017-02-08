@@ -36,5 +36,5 @@
 
   * Directly use EMG sensor to detect the signal of eyes and apply it to predict the behavior of drivers
 
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/zKByzYzvFNQ/0.jpg)](http://www.youtube.com/watch?v=zKByzYzvFNQ?t=191 "Bicycle Tuning Detection System")
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/zKByzYzvFNQ/0.jpg)](https://youtu.be/zKByzYzvFNQ?t=191 "Bicycle Tuning Detection System")
 
