@@ -30,7 +30,7 @@
 3. Elasticsearch for Chinese Article Search engine
 
 4. Google Play Store History Visualization (Demo: http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
-
+[IMAGE](https://drive.google.com/file/d/0B4RZUg4dmHKaT3dqVlk4dVgtV3M/view?usp=sharing)
 ---
 
 ## College Projects
