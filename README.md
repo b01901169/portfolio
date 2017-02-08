@@ -26,15 +26,15 @@
 ## College Projects
 
 1. Apply Reimforcement Learning to AI
-2. Automatic Stage Simulator (Demo: https://youtu.be/nHz5ARB4QXg)
+2. Automatic Stage Simulator
 
   * Use DE2-115 (Hardware implementation) to build a tempo detection
   
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/nHz5ARB4QXg/0.jpg)](http://www.youtube.com/watch?v=nHz5ARB4QXg "Automatic Stage Simulator")
   
-3. Bicycle Tuning Detection System (Demo: https://youtu.be/zKByzYzvFNQ?t=191)
+3. Bicycle Tuning Detection System
 
   * Directly use EMG sensor to detect the signal of eyes and apply it to predict the behavior of drivers
 
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/zKByzYzvFNQ/0.jpg)](http://www.youtube.com/watch?v=zKByzYzvFNQ "Bicycle Tuning Detection System")
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/zKByzYzvFNQ/0.jpg)](http://www.youtube.com/watch?v=zKByzYzvFNQ?t=191 "Bicycle Tuning Detection System")
 
