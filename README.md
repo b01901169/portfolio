@@ -11,7 +11,7 @@
    - Personalized Recommendation System (utilization of the following paper: https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
    - Mixerbox Radio Recommendation System (language detection of youtube videos)
 
- - Backend and Frontend Development
+- Backend and Frontend Development
    - Google Play Store Craler
    - APIs for getting apps data of given appid
    - Elasticsearch for Chinese Article Search engine
