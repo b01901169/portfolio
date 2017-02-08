@@ -29,21 +29,23 @@
 
 3. Elasticsearch for Chinese Article Search engine
 
-4. Google Play Store History Visualization (Demo: http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
+4. Google Play Store History Visualization [Demo](http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
 ![IMAGE ALT](https://github.com/b01901169/portfolio/blob/master/screenshot.png)
+
+
 ---
 
 ## College Projects
 
 1. Apply Reimforcement Learning to AI
 
-2. Automatic Stage Simulator [demo](https://youtu.be/nHz5ARB4QXg "Demo")
+2. Automatic Stage Simulator [Demo](https://youtu.be/nHz5ARB4QXg)
 
   * Use DE2-115 (Hardware implementation) to build a tempo detection
   
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/nHz5ARB4QXg/0.jpg)](http://www.youtube.com/watch?v=nHz5ARB4QXg "Automatic Stage Simulator")
   
-3. Bicycle Tuning Detection System [demo](https://youtu.be/zKByzYzvFNQ?t=191 "Demo")
+3. Bicycle Tuning Detection System [Demo](https://youtu.be/zKByzYzvFNQ?t=191)
 
   * Directly use EMG sensor to detect the signal of eyes and apply it to predict the behavior of drivers
 
