@@ -9,7 +9,11 @@
 
 1. Routing Games (Routing Games with Priorities http://aaac2016.ie.nthu.edu.tw/index.php/program/)
 
-- I introduce priorities to routing games, which means people can choose different priorities and pay the corresponding additional payment in order to get the priorities. With the priorities, players can be prior to other players with lower priorities. They only need to afford the traffic flow of higher or equal priorities. Under this assumption, I found that the optimal total cost of the whole game can be computed by integration of the cost function. And the total cost of the Nash equilibrium is equal to the original routing game without priorities. 
+  - I introduce priorities to routing games, which means people can choose different priorities and pay the corresponding additional payment in order to get the priorities.
+  - With the priorities, players can be prior to other players with lower priorities. They only need to afford the traffic flow of higher or equal priorities.
+  - Under this assumption, I found that the optimal total cost of the whole game can be computed by integration of the cost function. And the total cost of the Nash equilibrium is equal to the original routing game without priorities. 
+  - That means we can have a efficient way to compute the upper bound of the PoA (price of anarchy). It will be $$\frac{1}{3} (total flow * unit cost) / integration of cost function$$.
+  - This can be generalized to arbitrary graph, and the upper bound of the PoA (price of anarchy) will be bounded by
 
 2. Network Formation Games
 
