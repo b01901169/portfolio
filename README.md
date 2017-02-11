@@ -7,7 +7,7 @@
 
 ### Algorithmic Game thoery:
 
-1. Routing Games (**Routing Games with Priorities** [**PowerPoint**](https://drive.google.com/open?id=0B4RZUg4dmHKabi1yQUxReWFuSmc): [AAAC 2016](http://aaac2016.ie.nthu.edu.tw/index.php/program/) oral presentation)
+1. Routing Games (**Routing Games with Priorities**: [AAAC 2016](http://aaac2016.ie.nthu.edu.tw/index.php/program/) oral presentation [**PowerPoint**](https://drive.google.com/open?id=0B4RZUg4dmHKabi1yQUxReWFuSmc))
 
   - I introduce priorities to routing games, which means people can choose different priorities and pay the corresponding additional payment in order to get the priorities.
   - With the priorities, players can be prior to other players with lower priorities. They only need to afford the traffic flow of higher or equal priorities.
