@@ -41,11 +41,10 @@
 ## College Projects
 
 1. Apply Reimforcement Learning to AI (Puyo Puyo, a game similar to the tetris battle)
-  * [Gameplay vedio](https://www.youtube.com/watch?v=lLSFcXYhXMs)
+  * [Gameplay vedio](https://www.youtube.com/watch?v=lLSFcXYhXMs) (Sorry that my arduino is broken, so currently I can't record and demonstrate the demo vedio of our AI.)
   
    [![IMAGE ALT TEXT](http://img.youtube.com/vi/lLSFcXYhXMs/0.jpg)](http://www.youtube.com/watch?v=lLSFcXYhXMs "Puyo Puyo Game")
 
-  * Sorry that my arduino is broken, so currently I can't record and demonstrate the demo vedio of our AI.
   * Our AI can easily achieve 7 combos and defeat some of the official AIs.
   * Briefly introduce the concept we used:
     - We write a C++ code to capture the frames of the game and get the information of the current and next squares.
