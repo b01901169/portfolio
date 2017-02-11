@@ -34,7 +34,7 @@
 
 2. APIs for getting apps data of given appid
 
-3. Elasticsearch for Chinese Article Search engine
+3. Elasticsearch for Chinese Article search engine
 
 4. Google Play Store History Visualization [**Demo**](http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
 
