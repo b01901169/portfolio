@@ -9,7 +9,7 @@
 
 1. Routing Games (**Routing Games with Priorities** http://aaac2016.ie.nthu.edu.tw/index.php/program/)
 
-  [PowerPoint](https://drive.google.com/open?id=0B4RZUg4dmHKabi1yQUxReWFuSmc)
+  [**PowerPoint**](https://drive.google.com/open?id=0B4RZUg4dmHKabi1yQUxReWFuSmc)
 
   - I introduce priorities to routing games, which means people can choose different priorities and pay the corresponding additional payment in order to get the priorities.
   - With the priorities, players can be prior to other players with lower priorities. They only need to afford the traffic flow of higher or equal priorities.
@@ -38,7 +38,7 @@
 
 3. Elasticsearch for Chinese Article Search engine
 
-4. Google Play Store History Visualization [Demo](http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
+4. Google Play Store History Visualization [**Demo**](http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
 
 [![IMAGE ALT](https://github.com/b01901169/portfolio/blob/master/screenshot.png)](http://ec2-35-167-141-110.us-west-2.compute.amazonaws.com/)
 
@@ -58,13 +58,13 @@
     - We set several features and its corresponding weight. According to the weighted sum, the AI can compute the best expected weighted sum using the Bayesian inference.
     - By playing with computer and the scores that we receive, the AI will learn from failures and adjust its weights. Then become a better AI.
 
-2. Automatic Stage Simulator [Demo](https://youtu.be/nHz5ARB4QXg)
+2. Automatic Stage Simulator [**Demo**](https://youtu.be/nHz5ARB4QXg)
 
   * Use DE2-115 (Hardware implementation) to build a tempo detection
   
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/nHz5ARB4QXg/0.jpg)](http://www.youtube.com/watch?v=nHz5ARB4QXg "Automatic Stage Simulator")
   
-3. Bicycle Tuning Detection System [Demo](https://youtu.be/zKByzYzvFNQ?t=191)
+3. Bicycle Tuning Detection System [**Demo**](https://youtu.be/zKByzYzvFNQ?t=191)
 
   * Directly use EMG sensor to detect the signal of eyes and apply it to predict the behavior of drivers
 
