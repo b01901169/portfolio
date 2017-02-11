@@ -42,14 +42,15 @@
 
 1. Apply Reimforcement Learning to AI (Puyo Puyo, a game similar to the tetris battle)
   * [Gameplay vedio](https://www.youtube.com/watch?v=lLSFcXYhXMs)
+  
    [![IMAGE ALT TEXT](http://img.youtube.com/vi/lLSFcXYhXMs/0.jpg)](http://www.youtube.com/watch?v=lLSFcXYhXMs "Puyo Puyo Game")
 
   * Sorry that my arduino is broken, so currently I can't record and demonstrate the demo vedio of our AI.
   * Our AI can easily achieve 7 combos and defeat some of the official AIs.
   * Briefly introduce the concept we used:
-  - We write a C++ code to capture the frames of the game and get the information of the current and next squares.
-  - We set several features and its corresponding weight. According to the weighted sum, the AI can compute the best expected weighted sum using the Bayesian inference.
-  - By playing with computer and the scores that we receive, the AI will learn from failures and adjust its weights. Then become a better AI.
+    - We write a C++ code to capture the frames of the game and get the information of the current and next squares.
+    - We set several features and its corresponding weight. According to the weighted sum, the AI can compute the best expected weighted sum using the Bayesian inference.
+    - By playing with computer and the scores that we receive, the AI will learn from failures and adjust its weights. Then become a better AI.
 
 2. Automatic Stage Simulator [Demo](https://youtu.be/nHz5ARB4QXg)
 
