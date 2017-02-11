@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-1. Personalized Recommendation System (utilization of the following paper: https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
+1. Personalized Recommendation System (utilization of the following paper: [Matrix Factorization techniques for recommender systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
 
 2. Mixerbox Radio Recommendation System (language detection of youtube videos)
 
