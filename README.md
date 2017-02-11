@@ -17,6 +17,8 @@
   - **A simple application is that if all of the cost function is a polynomial with degree less than d, then the PoA will be bounded by d+1.**
 
 2. Network Formation Games
+  - I notice a possible breakthought in the paper: http://www.sciencedirect.com/science/article/pii/S0020019009001446.
+  - The pending upper bound of PoS is widely believed to be constant but currently is still not resolved.
 
 ---
 
