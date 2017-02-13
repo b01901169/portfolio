@@ -3,6 +3,19 @@
 
 ---
 
+## About Me
+
+I am currently a undergraduate student in National Taiwan University who double major in EE and Mathematics. I start to study in NTU after recwarding two IMO silver medals at the age of 16. And I took over 200 credits in NTU in EE, CS, Math. My research interest is in the algorithmic game theory.
+
+Moreover, I have been an intern in the Mixerbox Inc. for 1 year. I learn and utilize the practical techniques in ML, backend, frontend. I have completed several projects in our company.
+
+Currently, I am learning to use react.js to build interactive website. I am interested in many things in computer science and I want to learn all of the basic knowledge of them.
+
+I want to continue doing research and find a postdoc job in United States. I will try to utilize my mathematic knowledge to computer science and make a complete new breakthought on it.
+
+Here are some of my projects or works in recent four years.
+
+---
 ## Research Experience
 
 ### Algorithmic Game thoery:
